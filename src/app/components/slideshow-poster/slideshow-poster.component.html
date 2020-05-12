@@ -1,0 +1,6 @@
+<ion-slides (ionSlideReachEnd)="addSlides()" [options]="slideOpts">
+  <ion-slide *ngFor="let movie of movies">
+    <img *ngIf="movie.poster_path" (click)="openDetails(movie.id)" [src]="movie.poster_path | image "/>
+    <!-- <img *ngIf="movie.poster_path" (click)="openDetails(movie.id)" class="poster" [src]="movie.poster_path | image "/> -->
+  </ion-slide>
+</ion-slides>

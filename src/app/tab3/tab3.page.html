@@ -1,0 +1,10 @@
+<ion-content [fullscreen]="true">
+  <ion-header>
+    <ion-toolbar class="ion-no-border">
+      <ion-title size="large">Favoritos</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <!--REUTILIZANDO COMPONENTE, EN REALIDAD SE PODRIA CREAR OTRO CON DIFERENTE LAYOUT-->
+  <app-slideshow-backdrop (reloadFavorites)="reloadFavorites()" [movies]="favorites"></app-slideshow-backdrop>
+</ion-content>

@@ -1,0 +1,18 @@
+<ion-content [fullscreen]="true">
+  <ion-grid fixed>
+    <ion-row>
+      <ion-col>
+        <h3>En cine</h3>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <app-slideshow-backdrop [movies]="inTheatres"></app-slideshow-backdrop>
+  <ion-grid fixed>
+    <ion-row>
+      <ion-col>
+        <h3>Populares</h3>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <app-slideshow-poster (getMorePopular)="getMorePopular()" [movies]="popular"></app-slideshow-poster>
+</ion-content>
