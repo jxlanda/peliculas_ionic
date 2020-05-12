@@ -15,9 +15,6 @@ Dentro de los dos archivos hay que colocar tu API KEY de The Movie Database en l
 - Documentación: https://developers.themoviedb.org/3/getting-started/introduction
 
 ### Imágenes
-| <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/inicio.PNG?raw=true?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/detalles.PNG?raw=true?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/busqueda.PNG?raw=true?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/favoritos.PNG?raw=true?raw=true?raw=true" alt="drawing" width="200"/> |
+| <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/home.png?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/detail.png?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/search.png?raw=true" alt="drawing" width="200"/> | <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/favorites.png?raw=true" alt="drawing" width="200"/> |
 |-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-
-| <img src="https://github.com/jxlanda/peliculas_ionic/blob/master/GitHub/inicio_dark.PNG?raw=true?raw=true" alt="drawing" width="200"/> |
-|----------------------------------------------------------------------------------------------------------------------------------------|
 
